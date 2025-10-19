@@ -9,9 +9,6 @@ Built with:
 * 🗃️ **MySQL** for database management
 * 📊 **Power BI** for interactive visualizations
 
-> Inspired by YouTube tutorials, extended with **advanced features** such as fraud prediction models and multi-table SQL design.
-> Perfect for your **Data Analyst portfolio**!
-
 ---
 
 ## 📚 Table of Contents
