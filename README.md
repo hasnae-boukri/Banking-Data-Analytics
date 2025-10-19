@@ -255,8 +255,8 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 📬 Contact
 
-**Hasnae Boukri** – [your.email@example.com](boukrii.hasnaee@gmail.com)
-🔗 [LinkedIn]((https://www.linkedin.com/in/hasnae-boukri/))
+**Hasnae Boukri** – [boukrii.hasnaee@gmail.com](mailto:your.email@example.com) 
+🔗 [LinkedIn](https://www.linkedin.com/in/hasnae-boukri/) 
 🌐 [Project Link](https://github.com/YOUR_USERNAME/Banking-Data-Analytics-End-to-End)
 
 ---
